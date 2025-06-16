@@ -44,7 +44,7 @@ const GallerySection = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-5xl font-serif font-bold text-gray-900 mb-6">
             Among our wide range<br />
-            you'll find solutions for<br />
+            you&apos;ll find solutions for<br />
             any skin problems.
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">

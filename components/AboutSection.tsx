@@ -36,7 +36,7 @@ const AboutSection = () => {
                 FOUNDERS OF THE BRAND
               </p>
               <h3 className="text-2xl lg:text-3xl font-serif font-bold text-gray-900 mb-6">
-                Alex and Olga's many years of experience allows them to proudly
+                Alex and Olga&apos;s many years of experience allows them to proudly
                 offer consumers the most modern care products
               </h3>
             </div>

@@ -10,7 +10,7 @@ const Footer = () => {
         {/* Header section */}
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-6xl font-serif font-bold mb-8">
-            LET'S TALK<br />
+            LET&apos;S TALK<br />
             BOUT BEAUTY
           </h2>
           <button className="inline-block border-b-2 border-white pb-1 hover:border-gray-300 transition-colors">
